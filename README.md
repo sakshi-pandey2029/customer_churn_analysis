@@ -1,14 +1,14 @@
 # customer_churn_analysis
 
 # 📊 Customer Churn Analysis & Retention Strategy
-## 📌 Project Overview
+## 📌 PROJECT OVERVIEW
 
 This project focuses on analyzing customer churn behavior to identify key drivers of customer attrition and recommend actionable strategies to improve retention.
 
 The goal is not just to measure churn, but to understand why customers leave and propose data-driven solutions.
 
 
-## 🎯 Objectives
+## 🎯 OBJECTIVES
 Analyze customer churn patterns
 
 Identify leading indicators of churn
@@ -18,17 +18,17 @@ Perform root cause analysis
 Build a Churn Playbook with actionable recommendations
 
 
-## 🛠️ Tools & Technologies
+## 🛠️ TOOLS & TECHNOLOGIES
 1. SQL Server (SSMS) – Data cleaning & analysis
 2. Power BI – Data visualization (optional)
 3. Excel – Initial data inspection
 
-## 🧹 Data Cleaning
+## 🧹 DATA CLEANING
 1. Handled  null values in TotalCharges
 2. Treated NULL values in TechSupport logically
 3. Validated data types and removed inconsistencies
 
-## 📊 Key Analysis
+## 📊 KEY ANALYSIS
 ### 1. Churn Distribution
 1. Calculated overall churn rate
 2. Identified percentage of customers leaving
@@ -50,7 +50,7 @@ Build a Churn Playbook with actionable recommendations
 2. Service usage strongly impacts retention
 
 
-## 🔍 Key Insights
+## 🔍 KEY INSIGHTS
 🔥 Early-stage customers (0–3 months) are most likely to churn
 
 📉 Month-to-month contracts lead to higher churn
@@ -60,7 +60,7 @@ Build a Churn Playbook with actionable recommendations
 💰 High monthly charges may lead to dissatisfaction
 
 
-## 🚨  High Risk Customer Segment
+## 🚨  HIGH RISK SEGMENT
 
 ### 🔴 Segment A: New Customers
 1. Tenure ≤ 3 months
